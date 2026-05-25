@@ -10,3 +10,4 @@ def is_prime(n):
 for num in range(1, 20):
     if is_prime(num):
         print(f"{num} is prime")
+        
