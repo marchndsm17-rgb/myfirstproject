@@ -1,3 +1,6 @@
-name = "Marc" 
-print ("Hello, " + name)
-print("Welcome to Python")
+age = 18
+
+if age>+ 18:
+     print("Adult:")
+else:
+   print("Minor")
